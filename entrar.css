@@ -21,7 +21,7 @@ body
 {
 width: 1200px;
 height: 1200px;
-background-color: rgb(103, 145, 201);
+background-color: rgba(0, 42, 97, 0.26);
 border-radius: 1000px;
 position: relative;
 top: -390px;
@@ -32,7 +32,7 @@ justify-items: center;
 align-items: center;
 align-content: center;
 flex-direction: column;
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 font-size: 80px;
 font-family: sans-serif;
 }
